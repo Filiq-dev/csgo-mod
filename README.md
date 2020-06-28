@@ -5,7 +5,7 @@
       * Adaugat warmup.
       * Rezolvat un bug care facea sa nu se schimbe mapa in ultima runda.
       * Rezolvat un bug care facea sa nu ramana scorul cand se schimbau echipele.
-0.0.5:
+    0.0.5:
         * Am adaugat auto-update (se verifica daca ruleaza ultima versiune de plugin sau nu).
         * Acum la spawn ti se reincarca automat arma.
         * Acum daca sunt mai putin de 2 jucatori pe server, nu se va avansa in runde.
@@ -15,3 +15,4 @@
         * Adaugat meniul principal.
 
         * De facut sistemul de salvare si pe SQL.
+        https://prnt.sc/t7q2lp
