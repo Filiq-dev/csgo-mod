@@ -16,3 +16,4 @@
 
         * De facut sistemul de salvare si pe SQL.
         https://prnt.sc/t7q2lp
+        51.38.196.103:27015
